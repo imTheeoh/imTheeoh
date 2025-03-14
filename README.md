@@ -1,6 +1,6 @@
 # Hi, I'm Theo 👋
 
-I'm an Information Technology graduate and a Junior Frontend Developer passionate about building beautiful, responsive, and user-friendly websites.
+I'm an Information Technology graduate and a Junior Web Developer passionate about building beautiful, responsive, and user-friendly websites.
 
 - Focused on frontend technologies like HTML, CSS, TypeScript, and React.
 - Learning and exploring a variety of different frameworks and tools.
